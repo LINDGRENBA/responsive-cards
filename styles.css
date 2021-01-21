@@ -20,7 +20,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding: 120px 30px;
+  padding: 30px;
 }
 
 .container .card {
@@ -37,7 +37,7 @@ body {
 }
 
 .container .card:hover {
-  height: 420px;
+  height: 400px;
 }
 
 .container .card .imgDiv {
@@ -73,4 +73,20 @@ body {
   opacity: 1;
   margin-top: -40px;
   transition-delay: 0.3s;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #FFF;
+  padding: 10px;
+  text-align: center;
+}
+
+footer .credits {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
 }
