@@ -20,7 +20,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  padding: 30px;
+  padding: 120px 30px;
 }
 
 .container .card {
