@@ -8,6 +8,7 @@ Responsive cards with a cool hover effect
 
 # Resources :
 * Unsplash
+* Google Fonts
 * Coolers
 * Hipsum.co
 * Online Tutorials CSS Responsive Card Hover Effects Tutorial : [](https://youtu.be/8b2mTq0Xrtw)
