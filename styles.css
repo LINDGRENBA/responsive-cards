@@ -28,7 +28,7 @@ body {
   max-width: 300px;
   height: 215px;
   background: #FFF;
-  margin: 30px 10px;
+  margin: 50px 10px;
   padding: 20px 15px;
   display: flex;
   flex-direction: column;
@@ -80,13 +80,22 @@ footer {
   bottom: 0;
   left: 0;
   right: 0;
-  background: #FFF;
-  padding: 10px;
+  background: #200116;
+  padding: 20px;
   text-align: center;
+  color: #FFF;
+}
+
+footer span a {
+  color: #FFF;
+}
+
+footer span a:hover {
+  color: #008b8b;
 }
 
 footer .credits {
   display: flex;
   justify-content: space-between;
-  padding-top: 20px;
+  padding-top: 10px;
 }
